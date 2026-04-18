@@ -38,6 +38,8 @@ flowchart LR
     lm --> d2[device 2]
     lm --> d3[device 3]
     d1 --> iot[IoT Hub]
+    d2 --> iot[IoT Hub]
+    d3 --> iot[IoT Hub]
     iot --> asa[Azure Stream Analytics]
     asa --> blob[Azure blob storage]
     asa --> cdb[CosmoDB]
