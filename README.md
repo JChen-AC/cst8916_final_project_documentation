@@ -19,11 +19,11 @@ The Rideau Canal monitoring system receives information from sensors surrounding
 - **Description:** Complete project documentation, architecture, screenshots, and guides
 
 #### 2. Sensor Simulation Repository
-- **URL:** https://github.com/JChen-AC/cst8916_final_project_sensor_simulation
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_rideau_canal_sensor_simulation
 - **Description:** IoT sensor simulator code
 
 #### 3. Web Dashboard Repository
-- **URL:** https://github.com/JChen-AC/cst8916_final_project_dashboard
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_rideau_canal_dashboard
 - **Description:** Web dashboard application
 
 ## Scenario Overview
@@ -75,7 +75,7 @@ From there, an Azure Stream Analytics will query the IoT hub every 5 minutes, ga
 
 ## Implementation Overview 
 ### IoT Sensor Simulation 
-Repo Link: https://github.com/JChen-AC/cst8916_final_project_sensor_simulation
+Repo Link: https://github.com/JChen-AC/cst8916_final_project_rideau_canal_sensor_simulation
 The IoT Sensor Simulation is responsible for simulating the devices/sensors connected to the IoT Hub. This is done by creating multiple threads, one for each device, which is responsible for creating the data and sending it to the IoT Hub. Each worker corresponds to a preset connection string. 
 
 ### Azure IoT Hub Configuration 
@@ -186,7 +186,7 @@ The Blob Storage is used to store the historical aggregated data. The set up and
 
 ### Web dashboard and Azure deployment 
 #### Dashboard 
-Repo link : https://github.com/JChen-AC/cst8916_final_project_dashboard
+Repo link : https://github.com/JChen-AC/cst8916_final_project_rideau_canal_dashboard
 
 The Dashboard is a Node.js program that is used to display the aggregated data in real time. It does so by querying the Azure CosmoDB and Azure Blob Storage every 30 seconds, where it displays the most recent information on cards and the historical data on graphs. 
 
@@ -199,11 +199,11 @@ The Azure App Service is used to host the Dashboard application. In terms of set
 - **Description:** Complete project documentation, architecture, screenshots, and guides
 
 ### 2. Sensor Simulation Repository
-- **URL:** https://github.com/JChen-AC/cst8916_final_project_sensor_simulation
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_rideau_canal_sensor_simulation
 - **Description:** IoT sensor simulator code
 
 ### 3. Web Dashboard Repository
-- **URL:** https://github.com/JChen-AC/cst8916_final_project_dashboard
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_rideau_canal_dashboard
 - **Description:** Web dashboard application
 
 
@@ -233,8 +233,8 @@ https://www.youtube.com/watch?v=YYz5cTpf-CQ
 
 ### links to detailed setup in component repo 
 
-- Simulation : https://github.com/JChen-AC/cst8916_final_project_dashboard#prerequisites
-- Dashboard : https://github.com/JChen-AC/cst8916_final_project_sensor_simulation/blob/main/README.md#prerequisites
+- Simulation : https://github.com/JChen-AC/cst8916_final_project_rideau_canal_dashboard#prerequisites
+- Dashboard : https://github.com/JChen-AC/cst8916_final_project_rideau_canal_sensor_simulation#prerequisites
 
 ## Results and Analysis 
 ### screenshots 

@@ -16,11 +16,11 @@
 - **Description:** Complete project documentation, architecture, screenshots, and guides
 
 ### 2. Sensor Simulation Repository
-- **URL:** https://github.com/JChen-AC/cst8916_final_project_sensor_simulation
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_rideau_canal_sensor_simulation
 - **Description:** IoT sensor simulator code
 
 ### 3. Web Dashboard Repository
-- **URL:** https://github.com/JChen-AC/cst8916_final_project_dashboard
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_rideau_canal_dashboard
 - **Description:** Web dashboard application
 
 ## Demo
