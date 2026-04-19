@@ -1,24 +1,28 @@
 # Project Repository Links
 
 ## Student Information
-- **Name:** Your Full Name
-- **Student ID:** 123456789
-- **Course:** CST8916 - Fall 2025
+**Student Name**: Joshua Chen
+
+**Student ID**: 041280453
+
+**Course**: CST8916 Remote Data and Real Time Application
+
+**Semester**: Winter 2026
 
 ## Repository Links
 
 ### 1. Main Documentation Repository
-- **URL:** https://github.com/yourusername/rideau-canal-monitoring
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_documentation
 - **Description:** Complete project documentation, architecture, screenshots, and guides
 
 ### 2. Sensor Simulation Repository
-- **URL:** https://github.com/yourusername/rideau-canal-sensor-simulation
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_sensor_simulation
 - **Description:** IoT sensor simulator code
 
 ### 3. Web Dashboard Repository
-- **URL:** https://github.com/yourusername/rideau-canal-dashboard
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_dashboard
 - **Description:** Web dashboard application
 
 ## Demo
 
-- **Video Demo:** [YouTube]
+- **Video Demo:** [\[YouTube\]](https://www.youtube.com/watch?v=YYz5cTpf-CQ)
