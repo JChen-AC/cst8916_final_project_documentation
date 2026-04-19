@@ -1,8 +1,8 @@
 # CST8916 Final Project Documentation
 
-## Rideau Canal System
+## Real-time Monitoring System for Rideau Canal Skateway
 
-The rideau Canal monitoring system that receives information from sensors surrounding different portions of the Rideau Canal. These sensors collect information regarding the ice and weather surrounding its location. This information is then sent to an Azure IoT Hub, where it will be processed by an Azure Stream Analysis and then stored in an Azure Blob Storage and Azure CosmoDB. It would then be displayed on an Azure App Services webpage that contains a webapage displaying the safety status of the ice as well as the historical information. 
+The Rideau Canal monitoring system that receives information from sensors surrounding different portions of the Rideau Canal. These sensors collect information regarding the ice and weather surrounding its location. This information is then sent to an Azure IoT Hub, where it will be processed by an Azure Stream Analysis and then stored in an Azure Blob Storage and Azure CosmoDB. It would then be displayed on an Azure App Services webpage that contains a webapage displaying the safety status of the ice as well as the historical information. 
 
 ## Studen information
 **Student Name**: Joshua Chen
