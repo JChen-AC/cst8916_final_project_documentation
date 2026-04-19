@@ -23,7 +23,7 @@ The Rideau Canal monitoring system receives information from sensors surrounding
 - **Description:** IoT sensor simulator code
 
 #### 3. Web Dashboard Repository
-- **URL:** https://github.com/JChen-AC/cst8916_final_project_dashboard
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_rideau-canal-dashboard
 - **Description:** Web dashboard application
 
 ## Scenario Overview
@@ -186,7 +186,7 @@ The Blob Storage is used to store the historical aggregated data. The set up and
 
 ### Web dashboard and Azure deployment 
 #### Dashboard 
-Repo link : https://github.com/JChen-AC/cst8916_final_project_dashboard
+Repo link : https://github.com/JChen-AC/cst8916_final_project_rideau-canal-dashboard
 
 The Dashboard is a Node.js program that is used to display the aggregated data in real time. It does so by querying the Azure CosmoDB and Azure Blob Storage every 30 seconds, where it displays the most recent information on cards and the historical data on graphs. 
 
@@ -203,7 +203,7 @@ The Azure App Service is used to host the Dashboard application. In terms of set
 - **Description:** IoT sensor simulator code
 
 ### 3. Web Dashboard Repository
-- **URL:** https://github.com/JChen-AC/cst8916_final_project_dashboard
+- **URL:** https://github.com/JChen-AC/cst8916_final_project_rideau-canal-dashboard
 - **Description:** Web dashboard application
 
 
@@ -233,7 +233,7 @@ https://www.youtube.com/watch?v=YYz5cTpf-CQ
 
 ### links to detailed setup in component repo 
 
-- Simulation : https://github.com/JChen-AC/cst8916_final_project_dashboard#prerequisites
+- Simulation : https://github.com/JChen-AC/cst8916_final_project_rideau-canal-dashboard#prerequisites
 - Dashboard : https://github.com/JChen-AC/cst8916_final_project_sensor_simulation/blob/main/README.md#prerequisites
 
 ## Results and Analysis 
