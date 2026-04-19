@@ -232,8 +232,8 @@ https://www.youtube.com/watch?v=YYz5cTpf-CQ
 
 ### links to detailed setup in component repo 
 
-- Simulation : https://github.com/JChen-AC/cst8916_final_project_sensor_simulation
-- Dashboard : https://github.com/JChen-AC/cst8916_final_project_dashboard
+- Simulation : [https://github.com/JChen-AC/cst8916_final_project_sensor_simulation](https://stackoverflow.com/questions/46814183/stream-analytics-to-cosmosdb-always-fails)
+- Dashboard : [https://github.com/JChen-AC/cst8916_final_project_dashboard](https://stackoverflow.com/questions/46814183/stream-analytics-to-cosmosdb-always-fails)
 
 ## Results and Analysis 
 ### screenshots 
