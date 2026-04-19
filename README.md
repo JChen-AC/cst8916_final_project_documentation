@@ -234,7 +234,7 @@ https://www.youtube.com/watch?v=YYz5cTpf-CQ
 ### links to detailed setup in component repo 
 
 - Simulation : https://github.com/JChen-AC/cst8916_final_project_rideau-canal-dashboard#prerequisites
-- Dashboard : https://github.com/JChen-AC/cst8916_final_project_rideau_canal_sensor_simulation/blob/main/README.md#prerequisites
+- Dashboard : https://github.com/JChen-AC/cst8916_final_project_rideau_canal_sensor_simulation#prerequisites
 
 ## Results and Analysis 
 ### screenshots 
